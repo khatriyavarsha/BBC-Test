@@ -8,8 +8,8 @@ Automating the existing scenarios:
 To clone this project and to use it, the following software need to be installed
 
 **IDE**- Intellij
-**Build tool**: Maven
-**Plugin/ Dependencies**:  cucumber core, cucumber html (for report), cucumber jvm, cucumber java, cucumber Junit and Gherkin
+<br />**Build tool**: Maven
+<br />**Plugin/ Dependencies**:  cucumber core, cucumber html (for report), cucumber jvm, cucumber java, cucumber Junit and Gherkin
 
 JDK: Java 8 or Java 9
 <br />If issues run Maven clean, Maven Install.
