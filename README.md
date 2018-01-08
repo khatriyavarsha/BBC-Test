@@ -11,7 +11,7 @@ To clone this project and to use it, the following software need to be installed
 <br />**Build tool**: Maven
 <br />**Plugin/ Dependencies**:  cucumber core, cucumber html (for report), cucumber jvm, cucumber java, cucumber Junit and Gherkin
 
-JDK: Java 8 or Java 9
+**JDK**: Java 8 or Java 9
 <br />If issues run Maven clean, Maven Install.
 <br />The project structure is Page object Model with BDD approach.<br />
 <br />In the project we have <br />
