@@ -12,8 +12,8 @@ Build tool: Maven
 Plugin/ Dependencies:  cucumber core, cucumber html (for report), cucumber jvm, cucumber java, cucumber Junit and Gherkin
 
 JDK: Java 8 or Java 9
-<br />If issues run Maven clean, Maven Install.
-<br />The project structure is Page object Model with BDD approach.
+<br />If issues run Maven clean, Maven Install.<br />
+<br />The project structure is Page object Model with BDD approach.<br />
 <br />In the project we have 
 <br />PageObject: I have Page Object in the folder with respect to class.
 <br />Step Definition: I used this folder to put the step definitions within it.
